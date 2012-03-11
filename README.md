@@ -1,3 +1,3 @@
 # Fairyboard
 
-A online strategy board.
+An online strategy board.
